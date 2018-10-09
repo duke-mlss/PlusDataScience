@@ -1,2 +1,2 @@
 # PlusDataScience
-Materials for +DataScience In-Person Learning Experiences (IPLEs)
+Materials for [+DataScience](https://plus.datascience.duke.edu/) In-Person Learning Experiences (IPLEs)
